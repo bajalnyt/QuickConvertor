@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QuickConvertor</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="right">&#8594;</string>
+    <string name="left">&#8592;</string>
+    <string name="leftright"> ==  </string>
+	<string name="clear">Clear</string>
+
+	<string name="ftoc">Fahrenheit &#8592;&#8594;  Celsius</string>
+    <string name="milestokm">Miles &#8592;&#8594; Kms</string>
+    <string name="lbtokg">Pounds (lb) &#8592;&#8594; Kgs</string>
+    <string name="ltog">Gallons (US) &#8592;&#8594; Liters </string>
+    <string name="mgptokmpl">MPG &#8592;&#8594; Kms/L</string>    
+    <string name="mphtokmph">Miles/hr &#8592;&#8594; Kms/hr</string>
+</resources>
